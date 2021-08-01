@@ -1,0 +1,17 @@
+$ pwd
+$ ls
+$ cd 
+$ ls
+$ cd porteur
+$ pwd
+$ cd ../..
+$ pwd
+$ ls
+$ cd
+$ ls
+$ mkdir 
+$ cd ../..
+$ pwd
+$ ls
+$ mkdir
+$ ls
